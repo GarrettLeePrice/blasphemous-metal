@@ -20,3 +20,24 @@ body {
   margin-left: auto;
   margin-right: auto;
 }
+
+.jumbotron {
+  margin-top: 50px;
+  background-color: grey;
+
+}
+
+.jumbotron img {
+  width: 250px;
+  height: auto;
+}
+
+.clickable {
+  cursor: pointer;
+  color: red;
+}
+
+#list-hidden {
+  display: none;
+
+}
