@@ -1,0 +1,22 @@
+header {
+  text-align: center;
+  color: #ff3300;
+  font-family: fantasy;
+}
+
+body {
+  background-color: black;
+  color: white;
+}
+
+.row {
+  text-align: justify;
+  padding: 10px;
+  margin: 20px;
+}
+
+#nun {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
